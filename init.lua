@@ -9,3 +9,8 @@ require('plugin-config/nvim-treesitter')
 require('plugin-config/dashboard-nvim')
 require('plugin-config/nvim-toggleterm')
 require('plugin-config/wilder')
+-- lsp配置
+require('lsp/nvim-cmp')
+require('lsp/setup')
+
+
