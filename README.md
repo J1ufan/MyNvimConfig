@@ -1,0 +1,2 @@
+# MyNvimConfig
+Neovim配置
